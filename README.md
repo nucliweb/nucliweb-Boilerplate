@@ -2,7 +2,7 @@
 
 ### ¿Qués es?
 En este Boilerplate recopilo lo que considero que se adapta más a una base inicial para mis proyectos.
-La evolución del mismo se verá influenciada por los los avances, necesidades y soluciones que tenga que ir implementando en futuros proyectos web.
+La evolución del mismo se verá influenciada por los avances, necesidades y soluciones que tenga que ir implementando en futuros proyectos web.
 
 ### Contenido
 Para no influenciar en ningun aspecto de diseño, la base es una plantilla customizada de Boilerplate y Boilerplate Mobile.
